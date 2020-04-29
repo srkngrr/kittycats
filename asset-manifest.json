@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittycats/static/css/main.f88d06aa.chunk.css",
+    "main.js": "/kittycats/static/js/main.33c17e00.chunk.js",
+    "main.js.map": "/kittycats/static/js/main.33c17e00.chunk.js.map",
+    "runtime-main.js": "/kittycats/static/js/runtime-main.74bf0b09.js",
+    "runtime-main.js.map": "/kittycats/static/js/runtime-main.74bf0b09.js.map",
+    "static/js/2.048273be.chunk.js": "/kittycats/static/js/2.048273be.chunk.js",
+    "static/js/2.048273be.chunk.js.map": "/kittycats/static/js/2.048273be.chunk.js.map",
+    "index.html": "/kittycats/index.html",
+    "precache-manifest.6b815be2b60250369be7506ef97c002d.js": "/kittycats/precache-manifest.6b815be2b60250369be7506ef97c002d.js",
+    "service-worker.js": "/kittycats/service-worker.js",
+    "static/css/main.f88d06aa.chunk.css.map": "/kittycats/static/css/main.f88d06aa.chunk.css.map",
+    "static/js/2.048273be.chunk.js.LICENSE.txt": "/kittycats/static/js/2.048273be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74bf0b09.js",
+    "static/js/2.048273be.chunk.js",
+    "static/css/main.f88d06aa.chunk.css",
+    "static/js/main.33c17e00.chunk.js"
+  ]
+}
